@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "mygithubuserproject": {
+      "hosting": {
+        "fireBaseGitHubLogin": [
+          "mygithubuserproject"
+        ]
+      }
+    }
+  }
+}
